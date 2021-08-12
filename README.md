@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![commitcombo](http://commitcombo.com/get?user={soohyeon21}&theme={CottonCandy-mini})](https://github.com/devxb/CommitCombo)
+[![commitcombo](http://commitcombo.com/get?user=soohyeon21&theme={CottonCandy-mini})](https://github.com/devxb/CommitCombo)
 
 
 <!--
