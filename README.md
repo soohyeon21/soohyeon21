@@ -27,15 +27,22 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### Solved.ac Tier
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mango2"/>
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mango2&cache=c">
+</p>
+<!--
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=mango2&cache=c">
+</p>
+-->
+
 ### My Github Stats
-<a href="#">
+<a href="#"> <!--#의 의미는 해당 페이지 맨 위로 인듯?-->
   <img src="https://github-readme-stats.vercel.app/api?username=soohyeon21&theme=react&show_icons=true" height="150px">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soohyeon21&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="150px">
 </a>
-
-### Solved.ac Tier
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=mango2&cache=c">
-</p>
