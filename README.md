@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--rank: black(0), bronze(1+), silver(15+), gold(75+), diamond(250+), blue(700+)-->
 <p align="left">
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=soohyeon21&theme=CottonCandy-mini&rank=able&animation=false"/>
+    <img src="http://commitcombo.com/get/norank?user=soohyeon21&theme=CottonCandy-mini&rank=able&animation=false"/>
   </a>
 </p>
 
