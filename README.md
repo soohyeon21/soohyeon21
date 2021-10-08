@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### everyday trying
 <!--commit combo box code-->
-<!--랭크시스템 사용X시, theme 뒤에 "&rank=disable" 추가-->
+<!--랭크시스템 사용X시, theme 뒤에 "&rank=disable" 추가--> <!--rank system 사용 안하기 추가할 것-->
 <!--rank: black(0), bronze(1+), silver(15+), gold(75+), diamond(250+), blue(700+)-->
 <p align="left">
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get/norank?user=soohyeon21&theme=CottonCandy-mini&rank=able&animation=false"/>
+    <img src="http://commitcombo.com/get?user=soohyeon21&theme=CottonCandy-mini&rank=able&animation=false"/>
   </a>
 </p>
 
