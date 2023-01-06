@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
+<!--
 ### everyday trying
 <!--commit combo box code-->
 <!--랭크시스템 사용X시, theme 뒤에 "&rank=disable" 추가--> <!--rank system 사용 안하기 추가할 것-->
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
     <img src="http://commitcombo.com/get?user=soohyeon21&theme=CottonCandy-mini&rank=able&animation=false"/>
   </a>
 </p>
+-->
 
 ### Solved.ac Tier
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=mango2"/>
